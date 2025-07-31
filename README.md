@@ -7,5 +7,5 @@
 5. Navigate to the section where you can install apps. It should automatically detect both apks and offer to install them. Do it. There will be an error at the end of each installation. Don't worry, it worked anyway.
 6. Restart your tolino and select Novalauncher as default.
 7. Start Koreader (you can also create a shortcut by pressing and holding (just like on your Mobilephone)).
-8. Optionally download a dictionary: [German](https://www.reader-dict.com/de/download/de), [English](https://www.reader-dict.com/de/download/en)
+8. Optionally download a dictionary: [German](https://www.reader-dict.com/de/download/de), [English](https://www.reader-dict.com/de/download/en) (consider making a donation if you like the dictionaries)
 9. You can now also install a dictionary directly through Koreader: Open an ebook, make a drag-gesture from the top left, click the magnifier glass, choose "Einstellungen" (Settings) -> `Wörterbuch Einstellungen` -> `Wörterbücher heruntenlader`. Alterna
