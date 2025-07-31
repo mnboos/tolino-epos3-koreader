@@ -1,5 +1,11 @@
 # How to install Koreader on a Tolino Epos 3
 
+## Links
+- [Koreader user guide](https://koreader.rocks/user_guide/)
+- [Koreader wiki](https://github.com/koreader/koreader/wiki)
+- [Reader Dict: dictionaries for your ereader](https://www.reader-dict.com/)
+
+## Installation
 1. Download the [Novalauncher APK](https://novalauncher.com/apk/NovaLauncher_8.1.1.apk)
 2. Download [Koreader](https://github.com/koreader/koreader/releases) and choose an `ARM` version like `koreader-android-arm-v2025.04.apk`
 3. Copy both `.apk` files to the root folder of your tolino
